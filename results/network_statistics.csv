@@ -1,0 +1,9 @@
+Metric,Value
+Nodes,995.0
+Edges,14896.0
+Network Density,0.0301
+Avg. Clustering Coefficient,0.4889
+Avg. Path Length (LCC),3.7171
+LCC Size,995.0
+Number of Communities,10.0
+Modularity,0.6861

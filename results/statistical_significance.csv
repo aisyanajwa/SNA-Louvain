@@ -1,0 +1,11 @@
+Attribute,Chi-square,p-value,Sig. (a=0.05)
+religion,482.29,5.07e-62,Signifikan
+orientation,790.28,3.72e-156,Signifikan
+diet,451.17,3.76e-38,Signifikan
+drinks,496.93,1.79e-77,Signifikan
+smokes,407.9,1.49e-64,Signifikan
+drugs,558.8,4.32e-107,Signifikan
+status,918.77,3.53e-176,Signifikan
+offspring,607.96,3.31e-64,Signifikan
+education,739.96,1.23e-51,Signifikan
+job,729.63,3.10e-67,Signifikan

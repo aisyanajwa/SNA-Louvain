@@ -1,0 +1,5 @@
+Held-out Attribute,Community Purity,Random Baseline,Lift
+religion,0.232,0.21,1.11
+orientation,0.883,0.883,1.0
+diet,0.527,0.527,1.0
+drugs,0.794,0.792,1.0

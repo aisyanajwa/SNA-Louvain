@@ -1,0 +1,6 @@
+Algorithm,Communities,Modularity,Time (s)
+Leiden,10,0.6892,0.03
+Louvain,10,0.6861,0.193
+Label Propagation,16,0.6018,0.042
+Greedy Modularity (CNM),6,0.5934,1.217
+Infomap,3,0.2673,0.066
