@@ -17,3 +17,4 @@ This study utilizes the publicly available **OkCupid Profiles** dataset.
 3. Run the analysis notebook in `notebooks/okcupid_community_detection_louvain.ipynb`. The notebook will automatically detect the dataset path.
 
 > **Note**: `okcupid_profiles.csv` is ignored by Git (`.gitignore`) to comply with GitHub's 100 MB file size limit.
+
